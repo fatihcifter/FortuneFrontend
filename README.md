@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-It uses  FortuneBackend [api for](https://github.com/fatihcifter/FortuneBackend) project for backend. Still progressing
+It uses  FortuneBackend [api for](https://github.com/fatihcifter/FortuneBackend) project for backend. Still progress
 
 ## Getting Started
 
