@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+It uses  FortuneBackend [api for](https://github.com/fatihcifter/FortuneBackend) project for backend. Still progressing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
